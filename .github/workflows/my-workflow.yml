@@ -12,4 +12,4 @@ jobs:
       steps:
          - uses: actions/checkout@v3
          - name: ha-ha
-           uses: byrsouth/.github.actions/joke-action
+           uses: ./.github/actions/joke-action
