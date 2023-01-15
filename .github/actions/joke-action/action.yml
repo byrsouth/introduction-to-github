@@ -1,0 +1,7 @@
+name: "my joke action"
+
+descriotion: "use an eternal API to retrieve and display a joke"
+
+runs:
+  using: "node12"
+  main: "main.js"
